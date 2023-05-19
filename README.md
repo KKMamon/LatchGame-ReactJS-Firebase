@@ -1,5 +1,7 @@
 # LatchGame with ReactJS-Firestore-Firebase
 
+Project example to run game using ReactJS-Firestore-Firebase with CRUD App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
